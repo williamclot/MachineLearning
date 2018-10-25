@@ -1,0 +1,7 @@
+# production
+/.vscode
+
+# annoying files
+.DS_Store
+.pyc
+
